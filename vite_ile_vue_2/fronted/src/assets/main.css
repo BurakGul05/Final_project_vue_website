@@ -1,0 +1,14 @@
+@import './base.css';
+
+html, .body {
+    overflow-x: hidden;
+    height: fit-content;
+    padding: 0px !important;
+    
+}
+
+.sepetsidebar{
+      position: fixed;
+      right: 20px;
+      top: 50%;
+}
