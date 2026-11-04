@@ -135,7 +135,9 @@ STRYVE'nin marka kimliğini yansıtan, kullanıcıları ürünlere yönlendiren 
 
 Spor ve fitness ürünlerinin listelendiği, ürün filtreleme ve fiyat sıralama işlemlerinin gerçekleştirilebildiği sayfa.
 
-![STRYVE Ürünler Sayfası](urunler.png)
+![STRYVE Ürünler Sayfası](product.png)
+
+![STRYVE Ürünler Sayfası 2](product-2.png)
 
 ---
 
