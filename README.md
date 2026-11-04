@@ -159,7 +159,15 @@ Teslimat bilgilerinin girildiği ve sipariş işlemlerinin gerçekleştirildiği
 
 Ürün, kullanıcı, sipariş ve müşteri mesajları gibi yönetim işlemlerinin gerçekleştirildiği yönetim paneli.
 
-![STRYVE Admin Yönetim Paneli](admin.png)
+![Admin Panel](admin-panel.png)
+
+![Admin Panel 1](admin-panel-1.png)
+
+![Admin Panel 2](admin-panel-2.png)
+
+![Admin Panel 3](admin-panel-3.png)
+
+![Admin Panel 4](admin-panel-4.png)
 
 
 
