@@ -161,6 +161,13 @@ Teslimat bilgilerinin girildiği ve sipariş işlemlerinin gerçekleştirildiği
 
 ![STRYVE Admin Yönetim Paneli](admin.png)
 
+
+
+### 👤 Kullanıcı Yönetim Paneli
+
+Kullanıcıların ürünlerini, verdikleri siparişleri, satın aldıkları ve sattıkları ürünleri görüntüleyebildiği ve yönetebildiği kişisel yönetim paneli.
+
+
 ---
 
 ### 📩 İletişim Sayfası
