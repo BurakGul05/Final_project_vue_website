@@ -175,6 +175,10 @@ Teslimat bilgilerinin girildiği ve sipariş işlemlerinin gerçekleştirildiği
 
 Kullanıcıların ürünlerini, verdikleri siparişleri, satın aldıkları ve sattıkları ürünleri görüntüleyebildiği ve yönetebildiği kişisel yönetim paneli.
 
+![Kullanıcı Yönetim Paneli](user-panel.png)
+
+![Kullanıcı Yönetim Paneli 2](user-panel-2.png)
+
 
 ---
 
